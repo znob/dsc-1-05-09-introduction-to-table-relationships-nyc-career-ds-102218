@@ -1,5 +1,5 @@
 
-# Table Relations
+# Introduction to Table Relationships
 
 ## Introduction
 
