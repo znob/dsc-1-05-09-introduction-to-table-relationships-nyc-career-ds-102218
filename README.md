@@ -5,7 +5,7 @@
 
 In this lesson, we'll relate data from one table to data from another table using foreign keys. 
 
-# Objectives
+## Objectives
 You will be able to:
 * Understand the benefits of using related tables in SQL databases
 
@@ -195,7 +195,6 @@ The thing that "has many" is considered to be the parent. The thing that "belong
 
 Practice SQL Queries on <a href="http://sqlbolt.com/lesson/select_queries_review">SQLBolt</a>.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sql-table-relations-readme' title='Table Relations'>Table Relations</a> on Learn.co and start learning to code for free.</p>
+## Summary
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/sql-table-relations-readme'>Table Relations</a> on Learn.co and start learning to code for free.</p>
-
+Great job! You now understand the benefits of using related tables in SQL databases, and how to establish a foreign key.
